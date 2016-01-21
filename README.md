@@ -1,6 +1,9 @@
 # image-expressions
 image manipulation in python
 
+It's important to note that this python code is intended to be used with Scribbler 2 robots, hence some of the strange commands.
+
+Assignment:
 
 In this lab we will extend the image arithmetic class we developed in this week’s lecture. You will overload the python operators that are used for bitwise logic (e.g. and, or, not, xor).
 
